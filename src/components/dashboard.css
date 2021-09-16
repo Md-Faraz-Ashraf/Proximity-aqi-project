@@ -1,0 +1,29 @@
+.d-table {
+    border: 1px solid black;
+    width: 100%;
+    min-height: 400px;
+    overflow: scroll;
+}
+
+.d-table tr {
+    text-align: center;
+}
+
+#t-head tr th {
+    background-color: black;
+    color:white;
+    height: 55px;
+}
+
+.charts {
+    display: flex;
+}
+
+#dashboard-header {
+    text-align: center;
+}
+
+#d-board {
+    padding: 50px;
+    padding-top: 0px;
+}
